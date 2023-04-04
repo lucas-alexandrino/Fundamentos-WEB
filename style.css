@@ -1,0 +1,118 @@
+
+    
+    body {
+
+        background-color: rgb(73, 206, 73);
+
+    }
+
+    em {
+
+        color: rgb(3, 10, 90);
+    }
+
+    .meuNome  {
+       text-align: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .Descricao {
+
+      font-family: Arial, Helvetica, sans-serif;
+      position:absolute
+      top: 10px; //ajustar para ficar ao lado
+      right: 200px; // tambem
+    }
+     .javascript {
+
+        font-size: 20px;
+    
+     }
+
+     .sql {
+
+      
+      font-size: 20px;
+     }
+
+     .react {
+
+        font-size: 20px;
+     }
+
+     .bootstrap {
+
+        font-size: 20px;
+     }
+
+     .Agil {
+
+        font-size: 20px;
+    
+     }
+
+     #foto {
+      height: 100px; //ajustar a altura heigh
+      
+      padding: 10px; //ver se nao saiu do quadro(borda)
+      background-color: green;
+
+     }
+
+     .imagem-desc {
+
+      height:100px
+      posiition:relative
+
+     }
+
+     ul li:nth-child(odd) {
+
+      background-color: rgb(14, 145, 145);
+      
+     }
+     
+     
+     .libutton {
+
+       
+       display:flex;
+       flex-direction: column;
+       justify-content: center;
+       padding: 7px;
+       text-align: center;
+       outline: none;
+       text-decoration: none !important;
+       color: #ffffff !important;
+       width: 200px;
+       height: 32px;
+       border-radius: 16px;
+       background-color: #0A66C2;
+       font-family: "Coolvetica";
+     }
+     
+     .libutton:hover {
+      background-color: #0f5aa5;
+      
+    }
+    .gitbutton {
+      display: flex;
+       flex-direction: column;
+       justify-content: center;
+       padding: 7px;
+       text-align: center;
+       outline: none;
+       text-decoration: none !important;
+       color: #ffffff !important;
+       width: 200px;
+       height: 32px;
+       border-radius: 16px;
+       background-color: #1f2327;
+       font-family: "Coolvetica";
+    }
+    .gitbutton:hover {
+      background-color: #000000;
+      
+    }
+    
+    
