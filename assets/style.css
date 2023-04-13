@@ -20,8 +20,8 @@
 
       font-family: Arial, Helvetica, sans-serif;
       position:absolute
-      top: 10px; //ajustar para ficar ao lado
-      right: 200px; // tambem
+      top 10px; 
+      right: 200px; 
     }
      .javascript {
 
@@ -52,17 +52,17 @@
      }
 
      #foto {
-      height: 100px; //ajustar a altura heigh
+      height: 100px; 
       
-      padding: 10px; //ver se nao saiu do quadro(borda)
+      padding: 10px; 
       background-color: green;
 
      }
 
      .imagem-desc {
 
-      height:100px
-      posiition:relative
+      height:100px;
+      position:relative;
 
      }
 
